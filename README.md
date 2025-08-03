@@ -2,7 +2,7 @@
 
 - 1.4万star [`AI安全开源项目`](https://github.com/xcanwin/KeepChatGPT)作者
 - 擅长风险识别、漏洞挖掘、逆向破解
-- 追求创造使生活更轻松的工具
+- 热衷打造让生活更轻松的工具
 
 ### 🏂 生活
 
@@ -11,25 +11,21 @@
 ### 💼 工作
 
 - 信息安全专家
-- 曾就职于 大型金融业、制造业
+- 曾任职于 金融、制造等大型企业
 - 目前就职于 头部跨境电商
 
 ### ✨ 快乐源泉
 
-- 撸猫
-- 及常人所不能及
-- 独辟蹊径
-- 挖洞
-- 破解
-- 编码、开源
-- 高效/低成本办事
-- 烹饪美食
-- 鸟瞰的视野
+- 及常人所不能及、独辟蹊径
+- 高效率、低成本实现目标
+- 挖洞、破解、编码
+- 吸猫
+- 烹饪美食、俯瞰世界
 
 ### 🧑‍💻 技术栈
 
-- 对于主流语言开发的应用，均能漏洞挖掘、逆向破解
-- 知己知彼，方能全栈
+- 精通主流语言应用的漏洞挖掘与逆向
+- 熟悉攻防之道，善于全栈突破
 
 <div align="center">
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=xcanwin&show_icons=true&theme=algolia&hide=contribs,prs" alt="Anurag's github stats" /> 
