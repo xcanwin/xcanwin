@@ -1,6 +1,6 @@
 ### 👋 嗨，我是 xcanwin
 
-- 1.4万star `AI安全` 开源项目作者
+- 1.4万star [`AI安全开源项目`](https://github.com/xcanwin/KeepChatGPT)作者
 - 擅长风险识别、漏洞挖掘、逆向破解
 - 追求创造使生活更轻松的工具
 
