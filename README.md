@@ -1,6 +1,6 @@
 ### 👋 嗨，我是 xcanwin
 
-- 1.4万star [`AI安全开源项目`](https://github.com/xcanwin/KeepChatGPT)作者
+- 1.4万star [**AI安全开源项目**](https://github.com/xcanwin/KeepChatGPT) 作者
 - 擅长风险识别、漏洞挖掘、逆向破解
 - 热衷打造让生活更轻松的工具
 
@@ -10,7 +10,7 @@
 
 ### 💼 工作
 
-- 信息安全专家
+- **信息安全专家**
 - 曾任职于 金融、制造等大型企业
 - 目前就职于 头部跨境电商
 
@@ -24,7 +24,7 @@
 
 ### 🧑‍💻 技术栈
 
-- 精通主流语言应用的漏洞挖掘与逆向
+- 精通主流语言应用的 [**漏洞挖掘**](https://github.com/xcanwin/CVE-2024-4577-PHP-RCE) 与 [**逆向破解**](https://github.com/xcanwin/MacOS-App-Crack)
 - 熟悉攻防之道，善于全栈突破
 
 <div align="center">
