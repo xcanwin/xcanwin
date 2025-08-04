@@ -27,7 +27,7 @@
 ### 🧑‍💻 技术栈
 
 - 精通主流语言应用的 [**漏洞挖掘**](https://github.com/xcanwin/CVE-2024-4577-PHP-RCE) 与 [**逆向破解**](https://github.com/xcanwin/MacOS-App-Crack)
-- 熟悉攻防之道，善于全栈突破
+- 善于全栈突破
 
 <div align="center">
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=xcanwin&show_icons=true&theme=algolia&hide=contribs,prs" alt="Anurag's github stats" /> 
